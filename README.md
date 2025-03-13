@@ -15,5 +15,5 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![WhatsApp Image 2025-03-12 at 21 21 40](https://github.com/user-attachments/assets/66a56f76-713f-4863-b724-d6a3ec1d8cd4)
+<img src="https://github.com/user-attachments/assets/66a56f76-713f-4863-b724-d6a3ec1d8cd4" width="350" />
 
